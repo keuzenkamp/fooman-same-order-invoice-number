@@ -1,0 +1,11 @@
+modules/                                    app/etc/modules/
+modules/Fooman_SameOrderInvoiceNumber.xml   app/etc/modules/Fooman_SameOrderInvoiceNumber.xml
+app/etc/                                    app/code/community/Fooman/SameOrderInvoiceNumber/etc/
+app/etc/config.xml                          app/code/community/Fooman/SameOrderInvoiceNumber/etc/config.xml
+app/etc/system.xml                          app/code/community/Fooman/SameOrderInvoiceNumber/etc/system.xml
+app/helper/                                 app/code/community/Fooman/SameOrderInvoiceNumber/Helper/
+app/helper/Data.php                         app/code/community/Fooman/SameOrderInvoiceNumber/Helper/Data.php
+app/model/                                  app/code/community/Fooman/SameOrderInvoiceNumber/Model/
+app/model/Observer.php                      app/code/community/Fooman/SameOrderInvoiceNumber/Model/Observer.php
+LICENSE                                     LICENSE 
+LICENSE_AFL                                 LICENSE_AFL
